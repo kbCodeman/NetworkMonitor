@@ -1,2 +1,4 @@
-.gitignore
-.txt
+logs/
+temp_speedtest_output.txt
+*.txt
+!*.py
