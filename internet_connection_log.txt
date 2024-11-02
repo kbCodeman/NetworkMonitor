@@ -1,0 +1,73 @@
+2024-10-24 22:21:31 - Connected
+2024-10-24 23:52:37 - Disconnected
+2024-10-24 23:52:38 - Connected
+2024-11-02 15:21:35 - Connected
+2024-11-02 15:22:56 - Connected - Latency: N/A - Ping: None ms, Download: None Mbps, Upload: None Mbps
+2024-11-02 15:23:02 - Connected - Latency: N/A - Ping: None ms, Download: None Mbps, Upload: None Mbps
+2024-11-02 15:23:49 - Connected - Latency: N/A - Ping: None ms, Download: None Mbps, Upload: None Mbps
+2024-11-02 15:24:02 - Connected - Latency: N/A - Ping: None ms, Download: None Mbps, Upload: None Mbps
+2024-11-02 18:47:49 - Connected - Latency: N/A - Ping: None ms, Download: None Mbps, Upload: None Mbps
+2024-11-02 18:48:05 - Connected - Latency: N/A - Ping: None ms, Download: None Mbps, Upload: None Mbps
+2024-11-02 18:49:51 - Connected - Latency: N/A - Ping: None ms, Download: None Mbps, Upload: None Mbps
+2024-11-02 18:52:48 - Connected - Latency: N/A - Ping: None ms, Download: None Mbps, Upload: None Mbps
+2024-11-02 18:53:02 - Connected - Latency: N/A - Ping: None ms, Download: None Mbps, Upload: None Mbps
+2024-11-02 18:53:20 - Connected - Latency: N/A - Ping: None ms, Download: None Mbps, Upload: None Mbps
+2024-11-02 18:55:22 - Connected - Latency: N/A - Ping: None ms, Download: None Mbps, Upload: None Mbps
+2024-11-02 18:56:31 - Connected - Latency: N/A - Ping: None ms, Download: None Mbps, Upload: None Mbps
+2024-11-02 18:59:50 - Connected - Latency: N/A - Ping: None ms, Download: None Mbps, Upload: None Mbps
+2024-11-02 18:59:51 - Connected - Latency: N/A - Ping: None ms, Download: None Mbps, Upload: None Mbps
+2024-11-02 19:01:48 - Connected - Latency: N/A - Ping: None ms, Download: None Mbps, Upload: None Mbps
+2024-11-02 19:10:13 - Connected - Latency: N/A - Ping: None ms, Download: None Mbps, Upload: None Mbps
+2024-11-02 19:16:34 - Connected - Latency: N/A - Ping: None ms, Download: None Mbps, Upload: None Mbps
+2024-11-02 19:17:23 - Connected - Latency: N/A - Ping: None ms, Download: None Mbps, Upload: None Mbps
+2024-11-02 19:18:19 - Connected - Latency: N/A - Ping: None ms, Download: None Mbps, Upload: None Mbps
+2024-11-02 19:19:22 - Connected - Latency: N/A - Ping: 19.7 ms, Download: 23.24 Mbps, Upload: 11.45 Mbps
+2024-11-02 19:19:43 - Disconnected - Latency: N/A - Speed: N/A
+2024-11-02 19:19:45 - Connected - Latency: N/A - Speed: N/A
+2024-11-02 19:22:50 - Connected - Latency: 29.0 ms - Ping: 18.2 ms, Download: 22.99 Mbps, Upload: 10.74 Mbps
+2024-11-02 19:22:55 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:23:00 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:23:05 - Connected - Latency: 27.0 ms - Speed: N/A
+2024-11-02 19:23:10 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:23:15 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:23:21 - Connected - Latency: 27.0 ms - Speed: N/A
+2024-11-02 19:23:26 - Connected - Latency: 143.0 ms - Speed: N/A
+2024-11-02 19:23:31 - Connected - Latency: 51.0 ms - Speed: N/A
+2024-11-02 19:23:37 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:23:42 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:23:47 - Connected - Latency: 30.0 ms - Speed: N/A
+2024-11-02 19:23:52 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:23:57 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:24:03 - Connected - Latency: 57.0 ms - Speed: N/A
+2024-11-02 19:24:08 - Connected - Latency: 25.0 ms - Speed: N/A
+2024-11-02 19:24:14 - Connected - Latency: 48.0 ms - Speed: N/A
+2024-11-02 19:24:19 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:24:24 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:24:29 - Connected - Latency: 33.0 ms - Speed: N/A
+2024-11-02 19:25:07 - Connected - Latency: 26.0 ms - Ping: 15.8 ms, Download: 23.51 Mbps, Upload: 11.43 Mbps
+2024-11-02 19:25:12 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:25:17 - Connected - Latency: 37.0 ms - Speed: N/A
+2024-11-02 19:25:23 - Connected - Latency: 27.0 ms - Speed: N/A
+2024-11-02 19:25:28 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:25:33 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:25:38 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:25:43 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:25:49 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:25:54 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:25:59 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:26:04 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:26:30 - Connected - Latency: 26.0 ms - Ping: 15.2 ms, Download: 22.78 Mbps, Upload: 11.16 Mbps
+2024-11-02 19:26:35 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:26:41 - Connected - Latency: 40.0 ms - Speed: N/A
+2024-11-02 19:26:46 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:26:51 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:26:56 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:27:01 - Connected - Latency: 27.0 ms - Speed: N/A
+2024-11-02 19:27:07 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:27:12 - Connected - Latency: 28.0 ms - Speed: N/A
+2024-11-02 19:27:17 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:27:22 - Connected - Latency: 27.0 ms - Speed: N/A
+2024-11-02 19:27:27 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:27:32 - Connected - Latency: 25.0 ms - Speed: N/A
+2024-11-02 19:27:38 - Connected - Latency: 26.0 ms - Speed: N/A
+2024-11-02 19:27:43 - Connected - Latency: 38.0 ms - Speed: N/A
