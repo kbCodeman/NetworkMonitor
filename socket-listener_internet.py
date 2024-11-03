@@ -5,6 +5,20 @@ from datetime import datetime
 import os
 import re
 
+
+# Ensure the required npm package (speedtest-net) is available
+def check_and_install_dependencies():
+    try:
+        # Check if speedtest-net is installed globally in npm
+        result = subprocess.run(["npm", "list", "-g", "speedtest-net"], capture_output=True, text=True)
+        if "speedtest-net@" not in result.stdout:
+            print("The npm package 'speedtest-net' is not installed. Attempting to install...")
+            subprocess.run(["npm", "install", "-g", "speedtest-net"], check=True)
+            print("speedtest-net installed successfully.")
+    except Exception as e:
+        print(f"Failed to verify or install dependencies: {e}")
+        sys.exit("Please install the required dependencies and try again.")
+
 # Define the logs folder and ensure it exists
 log_folder = "logs"
 os.makedirs(log_folder, exist_ok=True)
@@ -128,22 +142,29 @@ def monitor_connection():
             current_status = check_internet()
             current_time = time.time()
 
-            if current_time - last_ping_time >= (1 if last_latency and last_latency > 80 else ping_interval):
+            # Determine interval for ping based on last latency
+            current_ping_interval = 1 if last_latency and last_latency > 80 else ping_interval
+
+            # Ping every second if high latency detected, otherwise every 30 seconds
+            if current_time - last_ping_time >= current_ping_interval:
                 current_latency = get_ping() if current_status else None
                 last_ping_time = current_time
 
+                # If high latency, print a message for each second check
                 if current_latency and current_latency > 80:
                     print(f"High latency detected: {current_latency} ms")
 
             else:
                 current_latency = None
 
+            # Run speed test intermittently every 10 minutes
             if current_time - last_speed_test_time >= speed_test_interval:
                 current_speed = get_speed() if current_status else None
                 last_speed_test_time = current_time
             else:
                 current_speed = None
 
+            # Log only if there's a change or it's a scheduled speed/ping test
             if current_status != last_status or current_latency is not None or current_speed is not None:
                 log_status(current_status, current_latency, current_speed)
                 last_status = current_status
@@ -153,6 +174,7 @@ def monitor_connection():
         except KeyboardInterrupt:
             print("\nMonitoring stopped.")
             break
+
 
 if __name__ == "__main__":
     monitor_connection()
