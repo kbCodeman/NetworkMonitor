@@ -93,20 +93,29 @@ def get_ping(host="8.8.8.8"):
 # Function to get internet speed
 def get_speed():
     temp_file = "temp_speedtest_output.txt"
-    command = f'start /wait cmd /c "node C:/Users/Keith/AppData/Roaming/npm/node_modules/speedtest-net/bin/index.js > {temp_file}"'
+    
+    # Directly run the speedtest-net command using Node.js
+    command = [
+        "node",
+        "C:/Users/Keith/AppData/Roaming/npm/node_modules/speedtest-net/bin/index.js"
+    ]
     
     try:
-        subprocess.run(command, shell=True)
-        time.sleep(1)
+        # Open the output file in write mode
+        with open(temp_file, "w", encoding="utf-8") as file:
+            # Run the command in the background without opening a new window
+            subprocess.run(command, stdout=file, stderr=subprocess.DEVNULL, text=True)
 
+        # Read the results from the temp file
         with open(temp_file, "r", encoding="utf-8") as file:
             output = file.read()
 
+        # Remove any ANSI escape sequences
         ansi_escape = re.compile(r'(?:\x1B[@-_][0-?]*[ -/]*[@-~])')
         clean_output = ansi_escape.sub('', output)
 
+        # Parse the output for ping, download, and upload speeds
         match = re.search(r'([\d.]+)\s*ms\s+([\d.]+)\s*Mbps\s+([\d.]+)\s*Mbps', clean_output)
-
         if match:
             ping = float(match.group(1))
             download = float(match.group(2))
