@@ -12,380 +12,564 @@
 
 7[7A[2K[1G│          Ping                  Download                 Upload         │
 87[6A[2K[1G│          -+--                    -+--                    -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│          --+-                    --+-                    --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│          ---+                    ---+                    ---+          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│          --+-                    --+-                    --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│          -+--                    -+--                    -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│          +---                    +---                    +---          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│          -+--                    -+--                    -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│          --+-                    --+-                    --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│          ---+                    ---+                    ---+          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│          --+-                    --+-                    --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms                  -+--                    -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms                  +---                    +---          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms                4.27 Mbps                 -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               17.31 Mbps                 --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               17.63 Mbps                 ---+          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               19.54 Mbps                 --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               19.59 Mbps                 -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               19.57 Mbps                 +---          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.50 Mbps                 -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.50 Mbps                 --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.27 Mbps                 ---+          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.35 Mbps                 --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.52 Mbps                 -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.30 Mbps                 +---          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.27 Mbps                 -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.26 Mbps                 --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.13 Mbps                 ---+          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.13 Mbps                 --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.26 Mbps                 -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.77 Mbps                 +---          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.48 Mbps                 -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.54 Mbps                 --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.45 Mbps                 ---+          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.53 Mbps                 --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.63 Mbps                 -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.63 Mbps                 +---          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.73 Mbps                 -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.55 Mbps                 --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.96 Mbps                 ---+          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.92 Mbps                 --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.91 Mbps                 -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.91 Mbps                 +---          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.63 Mbps                 -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.63 Mbps                 --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.08 Mbps                 ---+          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.14 Mbps                 --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.15 Mbps                 -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.18 Mbps                 +---          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.22 Mbps                 -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.16 Mbps                 --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.20 Mbps                 ---+          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.20 Mbps                 --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.16 Mbps                 -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.33 Mbps                 +---          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.39 Mbps                 -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.40 Mbps                 --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.37 Mbps                 ---+          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.25 Mbps                 --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.22 Mbps                 -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.22 Mbps                 +---          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.43 Mbps                 -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.44 Mbps                 --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.49 Mbps                 ---+          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.50 Mbps                 --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.46 Mbps                 -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.47 Mbps                 +---          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.49 Mbps                 -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               22.49 Mbps                 --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.99 Mbps                 ---+          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.89 Mbps                 --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.80 Mbps                 -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.81 Mbps                 +---          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.84 Mbps                 -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.84 Mbps                 --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.86 Mbps                 ---+          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.86 Mbps                 --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.81 Mbps                 -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.92 Mbps                 +---          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps                 -+--          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps                 --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps                 ---+          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps                 --+-          │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.28 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.30 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.28 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.95 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps               9.38 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps               9.38 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps               7.86 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps               9.06 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps               9.26 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps               9.45 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps               9.68 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps               9.68 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.12 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.20 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.28 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.34 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.39 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.45 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.49 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.49 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.52 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.80 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.83 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.87 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.89 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.91 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.91 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.01 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.84 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.87 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.89 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.92 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.88 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.88 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.90 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.92 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.78 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.75 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.96 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.99 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.00 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.00 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.01 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.02 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.91 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.80 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.95 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.92 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.92 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.92 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.93 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.95 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.95 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.96 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.97 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.98 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.99 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              10.99 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.00 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.00 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.01 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.03 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.04 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.05 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.05 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.05 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.06 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.06 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.13 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.13 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.14 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.14 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.15 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.15 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.15 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.16 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.16 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.16 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.17 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.17 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.14 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.14 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.12 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.14 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.15 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.15 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.15 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.15 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.19 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.19 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.20 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.20 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.20 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.20 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.20 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.20 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.20 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.20 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.20 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.20 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.20 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.20 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.20 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.20 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.20 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.20 Mbps       │
-87[7A[2K[1G│          Ping                  Download                 Upload         │
-87[6A[2K[1G│         18.8 ms               21.94 Mbps              11.20 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│          --+-                    --+-                    --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│          ---+                    ---+                    ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│          --+-                    --+-                    --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│          -+--                    -+--                    -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│          +---                    +---                    +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│          -+--                    -+--                    -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│          --+-                    --+-                    --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│          ---+                    ---+                    ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│          --+-                    --+-                    --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│          -+--                    -+--                    -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│          +---                    +---                    +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│          -+--                    -+--                    -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│          --+-                    --+-                    --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│          ---+                    ---+                    ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│          --+-                    --+-                    --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│          -+--                    -+--                    -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│          +---                    +---                    +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│          -+--                    -+--                    -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                  --+-                    --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         55.9 ms                  ---+                    ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                  --+-                    --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                  -+--                    -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                  +---                    +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                8.78 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               781.9 Kbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               781.9 Kbps                 ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               1185.9 Kbps                --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               1920.5 Kbps                -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                2.26 Mbps                 +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                2.31 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                2.11 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                2.09 Mbps                 ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                2.11 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                2.11 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                2.15 Mbps                 +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                2.02 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                2.07 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                2.12 Mbps                 ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                2.11 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                2.05 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                2.12 Mbps                 +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                2.12 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                2.16 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                2.23 Mbps                 ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                2.35 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                2.38 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                2.91 Mbps                 +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                2.96 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                3.03 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                3.03 Mbps                 ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                3.08 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                3.16 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                3.14 Mbps                 +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                3.05 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                3.02 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                3.09 Mbps                 ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                3.07 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                3.07 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                3.30 Mbps                 +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                3.91 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                4.67 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                5.40 Mbps                 ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                6.09 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                6.72 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                7.37 Mbps                 +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                7.37 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                7.77 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                8.46 Mbps                 ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                8.96 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                9.42 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms                9.93 Mbps                 +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               10.32 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               10.70 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               10.70 Mbps                 ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               11.05 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               11.46 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               11.74 Mbps                 +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               12.16 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               11.94 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               12.33 Mbps                 ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               12.28 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               12.28 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               12.73 Mbps                 +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               13.05 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               13.21 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               13.48 Mbps                 ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               13.77 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               13.97 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               14.21 Mbps                 +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               14.21 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               14.49 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               14.68 Mbps                 ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               14.84 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               15.05 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               15.24 Mbps                 +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               15.37 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               15.47 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               15.47 Mbps                 ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               15.64 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               15.77 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               15.89 Mbps                 +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               16.02 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               16.06 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               16.21 Mbps                 ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               16.25 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               16.25 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               16.41 Mbps                 +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               16.49 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               16.58 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               16.64 Mbps                 ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               16.73 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               16.76 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               16.90 Mbps                 +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               16.90 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               16.95 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               17.02 Mbps                 ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               17.14 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               17.18 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               17.27 Mbps                 +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               17.34 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               17.37 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               17.37 Mbps                 ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               17.20 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               17.77 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               17.77 Mbps                 +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               17.73 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               17.68 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               17.68 Mbps                 ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               17.67 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               17.67 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               18.66 Mbps                 +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               18.65 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               18.64 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               18.63 Mbps                 ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               18.63 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               18.63 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               18.63 Mbps                 +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               18.64 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               18.64 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               18.64 Mbps                 ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               18.66 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               18.68 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               18.69 Mbps                 +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               18.71 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               18.73 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               18.75 Mbps                 ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               18.78 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               18.78 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               18.81 Mbps                 +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               18.84 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               18.87 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               18.90 Mbps                 ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               18.94 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               18.97 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               18.97 Mbps                 +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.03 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.07 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.11 Mbps                 ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.16 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.16 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.21 Mbps                 +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.25 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.30 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.35 Mbps                 ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.41 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps                 +---          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps                 -+--          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps                 --+-          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps                 ---+          │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               7.37 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               8.16 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               7.77 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               6.62 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               7.74 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               8.00 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               8.20 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               8.20 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               7.80 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               7.15 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               7.88 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               8.09 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               8.34 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               8.44 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               8.50 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               8.50 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               8.60 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               8.77 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               8.82 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               8.77 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               8.62 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               8.79 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.31 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.31 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.31 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.25 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.21 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.21 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.22 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.22 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.23 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.23 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.18 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.14 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               8.90 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               8.60 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               8.98 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               8.98 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.20 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.22 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.25 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.25 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.26 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.27 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.27 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.27 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.27 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.23 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.22 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.22 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.22 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.22 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.22 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.22 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.22 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.22 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.23 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.23 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.24 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.25 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.26 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.26 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.27 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.16 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.09 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.04 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.31 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.32 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.33 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.33 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.33 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.33 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.34 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.34 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.34 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.34 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.34 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.34 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.34 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.34 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.34 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.33 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.32 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.31 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.28 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.28 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.27 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.25 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.24 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.23 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.22 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.22 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.18 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.18 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.18 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.18 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.18 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.18 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.18 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.18 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.18 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.18 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.18 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.18 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.18 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.18 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.18 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.18 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.18 Mbps       │
+87[8A[2K[1G│          Ping                  Download                 Upload         │
+87[7A[2K[1G│         49.2 ms               19.43 Mbps               9.18 Mbps       │
 8

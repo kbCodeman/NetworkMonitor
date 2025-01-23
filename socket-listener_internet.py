@@ -27,6 +27,26 @@ os.makedirs(log_folder, exist_ok=True)
 timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 log_file = os.path.join(log_folder, f"internet_connection_log_{timestamp}.txt")
 
+class Logger:
+    def __init__(self, file_path:
+                 self.terminal = sys.stdout
+                 self.log = open(file_path, "a")
+
+    def write(self, message):
+        self.terminal.write(message) #print to console
+        self.log.write(message) #Write to file
+
+    def flush(self):
+        self.terminal.flush()
+        self.log.flush()
+
+sys.stdout = Logger(log_file)
+sys.stderr = Logger(log_file)
+
+# Print a header to the log file
+print("=== Internet Connection Monitoring Log ===")
+print(f"Log started at: {datetime.now()}")
+
 # Create the log file with a header
 with open(log_file, "w") as log:
     log.write("Timestamp - Status - Latency - Speed - Band\n")
