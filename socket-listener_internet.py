@@ -4,6 +4,7 @@ import time
 from datetime import datetime
 import os
 import re
+import sys
 
 
 # Ensure the required npm package (speedtest-net) is available
@@ -28,9 +29,9 @@ timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 log_file = os.path.join(log_folder, f"internet_connection_log_{timestamp}.txt")
 
 class Logger:
-    def __init__(self, file_path:
-                 self.terminal = sys.stdout
-                 self.log = open(file_path, "a")
+    def __init__(self, file_path):
+                 self.terminal = sys.stdout # Preserve sys stdout
+                 self.log = open(file_path, "a") # Open in append mode
 
     def write(self, message):
         self.terminal.write(message) #print to console
@@ -46,6 +47,7 @@ sys.stderr = Logger(log_file)
 # Print a header to the log file
 print("=== Internet Connection Monitoring Log ===")
 print(f"Log started at: {datetime.now()}")
+print("Timestamp - Status - Latency - Speed - Band\n")
 
 # Create the log file with a header
 with open(log_file, "w") as log:
